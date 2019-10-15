@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342786593576",
+    "firebase_url": "https://virtualstore-e7131.firebaseio.com",
+    "project_id": "virtualstore-e7131",
+    "storage_bucket": "virtualstore-e7131.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342786593576:android:0639a739c1aa451e",
+        "android_client_info": {
+          "package_name": "com.example.virtual_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342786593576-np5ge4jspadgqco3r3800ldf49vcc635.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXf35pXCXws2oGxlJxBU1G-JowgM8I15Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342786593576-np5ge4jspadgqco3r3800ldf49vcc635.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
